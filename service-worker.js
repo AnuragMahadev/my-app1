@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AnuragMahadev.io/precache-manifest.382df0698991d1614fee1b790b7a6c9b.js"
+  "/AnuragMahadev.io/precache-manifest.0cc1376f7db37c6e22a207141b29ce92.js"
 );
 
 self.addEventListener('message', (event) => {

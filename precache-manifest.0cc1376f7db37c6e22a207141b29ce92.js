@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0d3cf114dd93526872a1d3a1b936579",
+    "revision": "b31ee97d55735d9ffbd645946c0c1b68",
     "url": "/AnuragMahadev.io/index.html"
   },
   {
-    "revision": "eeb46bab4e06382bace9",
+    "revision": "4e1fd3613c3e9dd8fbad",
     "url": "/AnuragMahadev.io/static/css/main.2cce8147.chunk.css"
   },
   {
-    "revision": "dac2b166da06952a189b",
-    "url": "/AnuragMahadev.io/static/js/2.589c40aa.chunk.js"
+    "revision": "142cd71ce065a7cc02a2",
+    "url": "/AnuragMahadev.io/static/js/2.559002c9.chunk.js"
   },
   {
-    "revision": "eeb46bab4e06382bace9",
-    "url": "/AnuragMahadev.io/static/js/main.1b539803.chunk.js"
+    "revision": "4e1fd3613c3e9dd8fbad",
+    "url": "/AnuragMahadev.io/static/js/main.d4685ec5.chunk.js"
   },
   {
     "revision": "414e6cef0efa29064e2c",
